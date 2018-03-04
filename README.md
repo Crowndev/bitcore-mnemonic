@@ -1,7 +1,7 @@
 bitcore-mnemonic-crown
 ======================
 
-This package is under development. Please do not download.
+This package is under development. It may be unstable, or not work as expected.
 
 Contributing
 ============
