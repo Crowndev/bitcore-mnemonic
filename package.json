@@ -1,6 +1,9 @@
 {
   "name": "bitcore-mnemonic-crown",
-  "version": "0.0.0",
+  "version": "0.1.0",
+  "publishConfig": {
+    "tag": "next"
+  },
   "description": "BIP39 Mnemonics implemented for Bitcore.",
   "author": "Crown Developers <info@crown.tech>",
   "main": "index.js",
